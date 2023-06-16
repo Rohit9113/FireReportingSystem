@@ -24,7 +24,7 @@ The Fire Reporting System is built using the following technologies:
 To run the Fire Reporting System on your local machine, follow these steps:
 
 1. Clone the repository to your local machine:
-**git clone https://github.com/your-username/fire-reporting-system.git**
+**git clone https://github.com/Rohit9113/FireReportingSystem.git**
 
 2. Change to the project's directory:
 **cd fire-reporting-system**
